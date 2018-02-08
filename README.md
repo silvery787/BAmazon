@@ -19,10 +19,8 @@ __bamazonSupervisor.js__ - Supervisor View allows user to:
 * Product Sales by Department
 * Create New Department
 
-installation		: npm install
-
-db object collecion 	: schema.sql
-
-db sample data 		: seeds.sql
+installation		: npm install<br>
+db object collecion 	: schema.sql<br>
+db sample data 		: seeds.sql<br>
 
 [Screencast video](https://youtu.be/FVZrgncbpMo)
