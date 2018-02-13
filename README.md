@@ -5,7 +5,7 @@
 __bamazonCustomer.js__ - allows to take in orders from customers and depletes stock from the store's inventory.
 			Also, when a customer purchases anything from the store, 
 			the price of the product multiplied by the quantity purchased is added to the product's
-			**product_sales column* of **products** table.
+			**product_sales column** of **products** table.
 
 __bamazonManager.js__ - Manager View allows to perform a set of actions from menu:
 
