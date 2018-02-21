@@ -1,6 +1,6 @@
 # BAmazon
 
-### Amazon-like storefront node.js application using the MySQL database.###
+### Amazon-like storefront node.js application using the MySQL database.
 
 __bamazonCustomer.js__ - allows to take in orders from customers and depletes stock from the store's inventory.
 			Also, when a customer purchases anything from the store, 
